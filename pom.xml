@@ -448,6 +448,18 @@
 			<organization>net8</organization>
 			<organizationUrl>http://net8.co.jp/</organizationUrl>
 		</developer>
+		<developer>
+			<id>coscend</id>
+			<name>Hemant Sabat</name>
+			<email>coscend@apache.org</email>
+			<organization>Coscend</organization>
+			<organizationUrl>http://www.Coscend.com</organizationUrl>
+			<roles>
+				<role>Developer</role>
+				<role>Evangelist</role>
+				<role>PMC</role>
+			</roles>
+		</developer>
 	</developers>
 	<contributors>
 		<contributor>
